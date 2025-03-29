@@ -1,4 +1,4 @@
-module github.com/algorand/go-sumhash
+module github.com/DePINNetwork/go-sumhash
 
 go 1.16
 
