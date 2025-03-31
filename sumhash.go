@@ -2,6 +2,7 @@
 package sumhash
 
 import (
+
 	"encoding/binary"
 	"fmt"
 	"hash"
